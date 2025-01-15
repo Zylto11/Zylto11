@@ -16,8 +16,8 @@ ___
 ### 🛠️ Languages, Frameworks, and Tools  
 
 ___
-- **C#:** [Unity](https://unity.com) 
-- **JavaScript:** [Twitch Extension API](https://github.com/TwitchLib/TwitchLib) 
+- **C#:** [Unity](https://unity.com) , [Cmake](https://cmake.org)
+- **JS | TS:** [Twitch Extension API](https://github.com/TwitchLib/TwitchLib) 
 - **Python:** [PyTorch](https://pytorch.org), [NumPy](https://numpy.org), [ffmpeg](https://www.ffmpeg.org)  
 - **HTML:** *(I just use AI for this, ngl)*  
 ___
