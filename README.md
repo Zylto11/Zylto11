@@ -1,3 +1,5 @@
+[KR-한국어](https://github.com/Zylto11/Zylto11-KR/blob/main/README.md)
+
 ## 👋 Hi, I'm Zylto!  
 
 I am a half-Korean robotics student who enjoys coding in Python and C#!
