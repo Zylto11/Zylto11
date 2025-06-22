@@ -1,4 +1,5 @@
-[KR-한국어](https://github.com/Zylto11/Zylto11-KR/blob/main/README.md)
+[KR-한국어](https://github.com/Zylto11/Zylto11/blob/main/README-KR)
+
 
 ## 👋 Hi, I'm Zylto!  
 
@@ -10,7 +11,7 @@ Feel free to reach out via my contacts below for any questions regarding me or m
 ### 📫 Official Contacts 
 
 ___
-- **Depreciating Email:** skittlo51y@gmail.com *(active until Feb 2025)*  
+- **Depreciating Email:** skittlo51y@gmail.com *(potentially active until end 2025)*  
 - **Email:** support@zyltoai.xyz *(currently offline)*  
 - **Twitter:** [@Zylto11](https://twitter.com/Zylto11)  
 ___
@@ -20,7 +21,7 @@ ___
 ___
 - **C#:** [Unity](https://unity.com) , [Cmake](https://cmake.org)
 - **JS | TS:** [Twitch Extension API](https://github.com/TwitchLib/TwitchLib) 
-- **Python:** [PyTorch](https://pytorch.org), [NumPy](https://numpy.org), [ffmpeg](https://www.ffmpeg.org)  
+- **Python:** [PyTorch](https://pytorch.org), [NumPy](https://numpy.org), [ffmpeg](https://www.ffmpeg.org), [Nvidia NeMo](https://docs.nvidia.com/nemo-framework/index.html)
 - **HTML:** *(I just use AI for this, ngl)*  
 ___
 
@@ -30,7 +31,9 @@ ___
 Here’s what I’m working on right now:  
 - **[Closed Source] Emira** *(2024/09/08 – Present)*  
   An AI VTuber with a voice, personality, memory, and a VTuber model! Runs a fully local, custom AI capable of expressing emotion. Inspired by NeuroSama.  
-  **Releasing on Twitch soon!** See you there: [Channel](twitch.tv/zylto11) 
+- **[Closed Source] VoiceV1**  *(2024/09/08 – Present)*
+  The main voice synthesizer using state of the art text to speech software using Pytorch,Numpy,Nemo and several more packages! Fully local and modular (voiceV2 sneek peek)
+  **Releasing on Twitch soon!?** See you there: [Channel](twitch.tv/zylto11)
 ___
 
 ### 💡 Notable Accomplishments  
@@ -43,10 +46,7 @@ ___
 
 ___
 Currently diving deeper into:  
-- **AI Framework Usage:** [Python](www.python.org)  
-- **Web API Handling:** [Python](www.python.org)  
-- **Game Development**  
-- **Large Language Model Training**  
-
-
-
+- **Mel spectrogram generators and GAN based Vocoders** 
+- **API Handling in local/online applications and systems:**
+- **Game Development Using C#** 
+- **Video Editing and 3D Modeling** [Blender](https://www.blender.org)
