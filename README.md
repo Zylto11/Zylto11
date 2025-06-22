@@ -1,5 +1,5 @@
 [KR-한국어](https://github.com/Zylto11/Zylto11/blob/main/README-KR.md)
-
+[JP-日本語]](https://github.com/Zylto11/Zylto11/blob/main/README-JP.md)
 
 
 ## 👋 Hi, I'm Zylto!  
