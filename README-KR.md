@@ -1,4 +1,4 @@
-[EN-English](https://github.com/Zylto11/Zylto11/blob/main/README-KR)
+[EN-English](https://github.com/Zylto11/Zylto11/blob/main/README.md)
 
 
 ## 👋 안녕하세요, 저는 Zylto입니다!  
