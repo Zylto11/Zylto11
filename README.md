@@ -1,4 +1,5 @@
-[KR-한국어](https://github.com/Zylto11/Zylto11/blob/main/README-KR)
+[KR-한국어](https://github.com/Zylto11/Zylto11/blob/main/README-KR.md)
+
 
 
 ## 👋 Hi, I'm Zylto!  
