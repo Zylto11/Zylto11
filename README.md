@@ -13,7 +13,7 @@ Feel free to reach out via my contacts below for any questions regarding me or m
 ___
 - **Depreciating Email:** skittlo51y@gmail.com *(potentially active until end 2025)*  
 - **Email:** support@zyltoai.xyz *(currently offline)*  
-- **Twitter:** [@Zylto11](https://twitter.com/Zylto11)  
+- **Twitter(X):** [@Zylto11](https://twitter.com/Zylto11)  
 ___
 
 ### 🛠️ Languages, Frameworks, and Tools  
