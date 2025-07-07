@@ -7,7 +7,7 @@
 내가 나 자신을 소개한다면, 저는 파이썬과 C# 코딩을 좋아하는 한국인 혼혈 로봇-공학생입니다!
 저나 제 프로젝트에 대한 문의 사항은 아래 연락처로 편하게 연락주세요!
 
-
+![Statistics](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=kr)
 
 ### 📫 공식 연락처
 
@@ -20,10 +20,7 @@ ___
 ### 🛠️ 언어, 프레임워크 및 도구
 
 ___
-- **C#:** [Unity](https://unity.com), [Cmake](https://cmake.org)
-- **JS | TS:** [Twitch 확장 API](https://github.com/TwitchLib/TwitchLib)
-- **Python:** [PyTorch](https://pytorch.org), [NumPy](https://numpy.org), [ffmpeg](https://www.ffmpeg.org), [Nvidia NeMo](https://docs.nvidia.com/nemo-framework/index.html)
-- **HTML:** *(AI 사용 ㅋㅋ)*
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&layout=normal&count_private=true&locale=kr)
 ___
 
 ### 🚀 Current Projects 
