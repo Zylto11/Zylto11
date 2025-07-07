@@ -7,7 +7,7 @@
 I am a half-Korean robotics student who enjoys coding in Python and C#!
 Feel free to reach out via my contacts below for any questions regarding me or my projects!
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Statistics](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
 
 ### 📫 Official Contacts 
@@ -21,7 +21,7 @@ ___
 ### 🛠️ Languages, Frameworks, and Tools  
 
 ___
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=dark&show_icons=true&hide_border=true&layout=normal&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&layout=normal&count_private=true)
 ___
 
 ### 🚀 Current Projects 
