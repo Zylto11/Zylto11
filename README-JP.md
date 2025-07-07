@@ -10,6 +10,10 @@
 韓国系アメリカ人のロボット工学専攻の学生で、PythonとC#でのプログラミングを楽しんでいます。
 私や私のプロジェクトに関するご質問は、下記の連絡先までお気軽にお問い合わせください。
 
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=ja)
+
+
 ### 📫 公式連絡先
 
 ___
@@ -21,10 +25,7 @@ ___
 ### 🛠️ 言語、フレームワーク、ツール
 
 ___
-- **C#:** [Unity](https://unity.com) 、[Cmake](https://cmake.org)
-- **JS | TS:** [Twitch Extension API](https://github.com/TwitchLib/TwitchLib)
-- **Python:** [PyTorch](https://pytorch.org)、[NumPy](https://numpy.org)、[ffmpeg](https://www.ffmpeg.org)、[Nvidia NeMo](https://docs.nvidia.com/nemo-framework/index.html)
-- **HTML:** *(正直に言うと、AIを使っています)*
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&layout=normal&count_private=true&locale=ja)
 ___
 
 ### 🚀 現在のプロジェクト
