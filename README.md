@@ -7,6 +7,7 @@
 I am a half-Korean robotics student who enjoys coding in Python and C#!
 Feel free to reach out via my contacts below for any questions regarding me or my projects!
 
+![Statistics](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ### 📫 Official Contacts 
@@ -20,10 +21,7 @@ ___
 ### 🛠️ Languages, Frameworks, and Tools  
 
 ___
-- **C#:** [Unity](https://unity.com) , [Cmake](https://cmake.org)
-- **JS | TS:** [Twitch Extension API](https://github.com/TwitchLib/TwitchLib) 
-- **Python:** [PyTorch](https://pytorch.org), [NumPy](https://numpy.org), [ffmpeg](https://www.ffmpeg.org), [Nvidia NeMo](https://docs.nvidia.com/nemo-framework/index.html)
-- **HTML:** *(I just use AI for this, ngl)*  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=dark&show_icons=true&hide_border=true&layout=normal&count_private=true)
 ___
 
 ### 🚀 Current Projects 
