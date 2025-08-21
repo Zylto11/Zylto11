@@ -1,51 +1,57 @@
-[KR-한국어](https://github.com/Zylto11/Zylto11/blob/main/README-KR.md) | 
-[JP-日本語](https://github.com/Zylto11/Zylto11/blob/main/README-JP.md)
+<!-- README.md (pure Markdown) -->
 
+![Banner](https://raw.githubusercontent.com/Zylto11/Zylto11/main/images/banner.jpg)
 
-## 👋 Hi, I'm Zylto!  
+# 👋 Hi — I'm Zylto
 
-I am a half-Korean robotics student who enjoys coding in Python and C#!
-Feel free to reach out via my contacts below for any questions regarding me or my projects!
+Half-Korean robotics student. I tinker with machine learning, building local AI tools and voice systems. I code mainly in Python and C#.
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+[🇰🇷 한국어](https://github.com/Zylto11/Zylto11/blob/main/README-KR.md) | [🇯🇵 日本語](https://github.com/Zylto11/Zylto11/blob/main/README-JP.md)
 
+---
 
-### 📫 Official Contacts 
+## ✨ About / Contact
 
-___
-- **Depreciating Email:** skittlo51y@gmail.com *(potentially active until end 2025)*  
-- **Email:** support@zyltoai.xyz *(currently offline)*  
-- **Twitter(X):** [@Zylto11](https://twitter.com/Zylto11)  
-___
+**📫 Contact**
 
-### 🛠️ Languages, Frameworks, and Tools  
+- Email: <zylto@zyltoai.xyz> <!-- will render as clickable mailto link -->
+- X / Twitter: [@Zylto11](https://x.com/Zylto11)
+- Twitch: [twitch.tv/zylto11](https://www.twitch.tv/zylto11)
 
-___
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&layout=normal&count_private=true)
-___
+---
 
-### 🚀 Current Projects 
+## ✨ Skillset
 
-___
-Here’s what I’m working on right now:  
-- **[Closed Source] Emira** *(2024/09/08 – Present)*  
-  An AI VTuber with a voice, personality, memory, and a VTuber model! Runs a fully local, custom AI capable of expressing emotion. Inspired by NeuroSama.  
-- **[Closed Source] VoiceV1**  *(2024/09/08 – Present)*
-  The main voice synthesizer using state of the art text to speech software using Pytorch,Numpy,Nemo and several more packages! Fully local and modular (voiceV2 sneek peek)
-  **Releasing on Twitch soon!?** See you there: [Channel](twitch.tv/zylto11)
-___
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![nvidia_nemo](https://img.shields.io/badge/nemo-%76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
 
-### 💡 Notable Accomplishments  
+---
 
-___
-*To be updated...* 🙃  
-___
+## 🚀 Current Projects
 
-### 🌱 What I’m Learning *(2022 – Present)*  
+- **Emira** — A local AI VTuber system (voice, personality, memory and expressions). Custom models, offline-first.
+- **VoiceV1** — Local TTS pipeline using PyTorch and neural vocoders. Modular architecture for easy swapping of models.
+- **Other experiments** — prosody prediction, vocoder improvements, realtime audio pipelines.
 
-___
-Currently diving deeper into:  
-- **Mel spectrogram generators and GAN based Vocoders** 
-- **API Handling in local/online applications and systems:**
-- **Game Development Using C#** 
-- **Video Editing and 3D Modeling** [Blender](https://www.blender.org)
+---
+
+## 🌱 What I’m Learning
+
+- Mel spectrogram generators & GAN vocoders  
+- AI architectures and optimization
+- video editing (Davinci Resolve 12)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=transparent&layout=normal&count_private=true)
+
+---
+*last updated on 2025 August 21st*
