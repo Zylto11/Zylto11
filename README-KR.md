@@ -1,50 +1,51 @@
-[EN-English](https://github.com/Zylto11/Zylto11/blob/main/README.md) | 
-[JP-日本語](https://github.com/Zylto11/Zylto11/blob/main/README-JP.md)
+<!-- README.md (pure Markdown) -->
 
+![Banner](https://raw.githubusercontent.com/Zylto11/Zylto11/main/images/banner.jpg)
 
-## 👋 안녕하세요, 저는 Zylto입니다!  
+# 👋 안녕하세요 — 저는 Zylto입니다.
 
-내가 나 자신을 소개한다면, 저는 파이썬과 C# 코딩을 좋아하는 한국인 혼혈 로봇-공학생입니다!
-저나 제 프로젝트에 대한 문의 사항은 아래 연락처로 편하게 연락주세요!
+한국계 혼혈 학생 입니다. 머신 러닝, 로컬 AI 도구 및 음성 시스템 구축을 연구하고 있습니다. 주로 Python과 C#으로 코딩합니다.
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=kr)
+## ✨ 소개 / 연락처
 
-### 📫 공식 연락처
+**📫 연락처**
 
-___
-- **사용 중단 이메일:** skittlo51y@gmail.com *(2025년 말까지 비활성화될수 있음)*
-- **이메일:** support@zyltoai.xyz *(현재 오프라인)*
-- **트위터(X):** [@Zylto11](https://twitter.com/Zylto11)
-___
+- 이메일: <zylto@zyltoai.xyz> <!-- 클릭 가능한 메일 링크로 변환 -->
+- X / 트위터: [@Zylto11](https://x.com/Zylto11)
+- 트위치: [twitch.tv/zylto11](https://www.twitch.tv/zylto11)
 
-### 🛠️ 언어, 프레임워크 및 도구
+---
 
-___
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&layout=normal&count_private=true&locale=kr)
-___
+## ✨ 기술
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![nvidia_nemo](https://img.shields.io/badge/nemo-%76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
+---
 
-### 🚀 Current Projects 
+## 🚀 진행 중인 프로젝트
 
-___
-현재 제가 작업 중인 내용은 다음과 같습니다.
-- **[비공개 소스] Emira** *(2024년 9월 8일 ~ 현재)*
-음성, 성격, 기억력, 그리고 VTuber 모델을 갖춘 AI VTuber입니다! 감정을 표현할 수 있는 완전히 로컬화된 맞춤형 AI를 실행합니다. NeuroSama에서 영감을 받았습니다.
-- **[비공개 소스] VoiceV1** *(2024년 9월 8일 – 현재)*
-Pytorch, Numpy, Nemo 및 여러 패키지를 활용한 최첨단 텍스트 음성 변환 소프트웨어를 사용하는 주요 음성 합성기입니다! 완전히 로컬 및 모듈식입니다(voiceV2 미리보기??).
-**곧 트위치에서 출시되나요!?** 채널에서 만나요: [채널](twitch.tv/zylto11)
-___
+- **Emira** — 로컬 AI VTuber 시스템(음성, 성격, 기억, 표현). 맞춤형 모델, 오프라인 우선
+- **VoiceV1** — PyTorch와 신경망 보코더를 활용한 로컬 TTS 파이프라인. 모듈식 아키텍처로 모델 교체가 간편합니다.
+- **기타 실험** — 운율 예측, 보코더 개선, 실시간 오디오 파이프라인
 
-### 💡 주요 업적
+---
 
-___
-*업데이트 예정...* 🙃
-___
+## 🌱 학습 내용
 
-### 🌱 학습 내용 *(2022년 ~ 현재)*
+- Mel 스펙트로그램 생성기 및 GAN 보코더
+- AI 아키텍처 및 최적화
+- 비디오 편집(Davinci Resolve 12)
 
-___
-현재 심층적으로 학습 중인 내용:
-- **Mel 스펙트로그램 생성기 및 GAN 기반 보코더**
-- **로컬/온라인 애플리케이션 및 시스템에서의 API 처리:**
-- **C#을 활용한 게임 개발**
-- **비디오 편집 및 3D 모델링** [Blender](https://www.blender.org)
+---
+
+## 📊 GitHub 통계
+
+![통계](https://github-readme-stats.vercel.app/api?username=Zylto11&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+
+![인기 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylto11&theme=transparent&layout=normal&count_private=true)
+
+---
+*2025년 8월 21일 최종 업데이트*
